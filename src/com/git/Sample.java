@@ -6,8 +6,16 @@ public class Sample {
    }
    private void selenium() {
 	System.out.println("selenium course");
-}
+   }
    private void sql() {
 	System.out.println("sql course");
-}
+   }
+   private void python() {
+	System.out.println("python course");
+
+   }
+   private void junit() {
+	System.out.println("junit framework");
+   }
+   
 }
